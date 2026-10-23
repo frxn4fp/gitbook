@@ -1,5 +1,5 @@
 ---
-description: 'Informe de Prueba de Penetración: Active'
+description: https://app.hackthebox.com/machines/Active
 ---
 
 # Active

@@ -1,5 +1,5 @@
 ---
-description: 'Informe de Prueba de Penetración: Backdoor'
+description: https://app.hackthebox.com/machines/Backdoor
 ---
 
 # Backdoor
