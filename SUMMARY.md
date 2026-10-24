@@ -6,3 +6,4 @@
     * [Admirer](readme/easy/admirer.md)
     * [Arctic](readme/easy/arctic.md)
     * [Backdoor](readme/easy/backdoor.md)
+    * [Blue](readme/easy/blue.md)
