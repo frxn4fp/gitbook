@@ -1,5 +1,5 @@
 ---
-description: https://app.hackthebox.com/machines/Backdoor
+description: https://app.hackthebox.com/machines/Blue
 ---
 
 # Blue
